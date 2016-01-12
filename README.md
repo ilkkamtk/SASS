@@ -1,6 +1,7 @@
 # SASS Task
-1. Create new folder and clone this repo there
+1. Create new folder and clone this repo there in terminal/shell/bash
     * cloning: git clone address_of_this_repo
+    * cloning creates a folder called SASS. Go there, cd SASS
     * load linked apps: npm install
     * load dependencies: bower install
     * start automation: grunt serve
